@@ -13,7 +13,7 @@ export default function OpengraphImage() {
           width: "100%",
           height: "100%",
           display: "flex",
-          background: "#faf6f1",
+          background: "#ede4d9",
           padding: 64,
           fontFamily: "sans-serif",
         }}

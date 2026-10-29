@@ -20,8 +20,7 @@ export const site = {
   url: resolveSiteUrl(),
   /** Payment link. Set NEXT_PUBLIC_BUY_URL in your environment. */
   buyUrl: process.env.NEXT_PUBLIC_BUY_URL || "#",
-  /** TODO: replace with your real support email. */
-  contactEmail: "hello@example.com",
+  contactEmail: "support@ebooksell.in",
   price: 299,
   priceDisplay: "₹299",
   currency: "INR",
