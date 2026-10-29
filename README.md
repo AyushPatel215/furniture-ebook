@@ -1,6 +1,6 @@
-# The Complete Home Furniture Guide: Sales Site
+# Furniture Buying Made Easy: Sales Site
 
-A fast, fully static, single-page sales site for the PDF ebook **The Complete Home Furniture Guide** (₹299).
+A fast, fully static, single-page sales site for the PDF ebook **Furniture Buying Made Easy** (₹299).
 
 Built with Next.js 16 (App Router, Cache Components), TypeScript, Tailwind CSS v4 and `next/font`. It uses no UI, icon or animation libraries and loads no third-party scripts.
 

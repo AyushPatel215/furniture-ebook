@@ -5,6 +5,7 @@ import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
 import { ProductJsonLd } from "@/components/JsonLd";
 import { Problem } from "@/components/Problem";
+import { Reviews } from "@/components/Reviews";
 import { SampleInsights } from "@/components/SampleInsights";
 import { StickyBuyBar } from "@/components/StickyBuyBar";
 import { WhatsInside } from "@/components/WhatsInside";
@@ -23,6 +24,7 @@ export default function Home() {
         <WhatYouLearn />
         <WhatsInside />
         <SampleInsights />
+        <Reviews />
         <WhoFor />
         <Faq />
         <FinalCta />

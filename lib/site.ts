@@ -13,8 +13,8 @@ function resolveSiteUrl(): string {
 }
 
 export const site = {
-  name: "Home Furniture Guide",
-  productName: "The Complete Home Furniture Guide",
+  name: "Furniture Buying Made Easy",
+  productName: "Furniture Buying Made Easy",
   tagline:
     "Know what to ask, what to pay, and what to avoid, before you spend a rupee on furniture.",
   url: resolveSiteUrl(),
@@ -33,12 +33,12 @@ export const site = {
   lastUpdated: "2026-10-22",
   /** Kept static so pages stay fully pre-rendered. Update yearly. */
   copyrightYear: 2026,
-  /** Optional: the real cover lives at /public/cover.webp (3:4 ratio, e.g. 900x1200). */
-  cover: { src: "/cover.webp", width: 900, height: 1200 },
+  /** The real cover lives at /public/images/faniture-book-cover.png (2:3 ratio, 1024x1536). */
+  cover: { src: "/images/faniture-book-cover.png", width: 1024, height: 1536 },
 } as const;
 
 export const seo = {
-  title: "Home Furniture Guide India: PDF Ebook for ₹299",
+  title: "Furniture Buying Made Easy: PDF Ebook for ₹299",
   description:
     "Indian home furniture buying guide PDF: compare quotations, BWP vs MR plywood, modular kitchen and wardrobe planning, hardware and hidden costs. 65 pages.",
   keywords: [

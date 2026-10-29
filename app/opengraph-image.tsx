@@ -55,7 +55,7 @@ export default function OpengraphImage() {
         >
           <div style={{ display: "flex", fontSize: 18, color: "#efe2d3", letterSpacing: 4 }}>PDF GUIDE · INDIA</div>
           <div style={{ display: "flex", fontSize: 40, fontWeight: 800, lineHeight: 1.15 }}>
-            The Complete Home Furniture Guide
+            Furniture Buying Made Easy
           </div>
           <div style={{ display: "flex", fontSize: 20, color: "#efe2d3" }}>What to ask, what to pay, what to avoid</div>
         </div>

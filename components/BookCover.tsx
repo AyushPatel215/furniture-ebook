@@ -6,7 +6,7 @@ import { site } from "@/lib/site";
 const coverAlt = `${site.productName}: ${site.pages}-page PDF ebook cover`;
 
 /**
- * Checked at build time (the page is fully static). Once /public/cover.webp
+ * Checked at build time (the page is fully static). Once the file at site.cover.src
  * exists, the real cover is used; until then a lightweight CSS mockup renders.
  */
 function hasCoverImage(): boolean {
@@ -55,7 +55,7 @@ function CssCover() {
           </p>
           <div className="mt-6 h-px w-12 bg-beige/70" />
           <p className="mt-5 text-[1.65rem] font-extrabold leading-tight">
-            The Complete Home Furniture Guide
+            Furniture Buying Made Easy
           </p>
           <p className="mt-3 text-sm leading-snug text-beige">
             What to ask, what to pay, and what to avoid

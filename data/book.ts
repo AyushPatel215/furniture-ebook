@@ -180,7 +180,7 @@ export const faqs: readonly Faq[] = [
   {
     question: "What exactly do I get when I buy?",
     answer:
-      "You get The Complete Home Furniture Guide as a 65-page PDF ebook: 9 parts and 59 topics, each ending with a highlighted practical tip. It is a digital download, so nothing is shipped.",
+      "You get Furniture Buying Made Easy as a 65-page PDF ebook: 9 parts and 59 topics, each ending with a highlighted practical tip. It is a digital download, so nothing is shipped.",
   },
   {
     question: "How soon can I start reading?",
